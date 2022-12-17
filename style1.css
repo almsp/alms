@@ -1,0 +1,225 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.body, html {
+    background: #FFFFFF;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover;
+    -webkit-background-size: cover;
+    width: 100%;
+    box-shadow: 0px 4px 200px rgba(0, 0, 0, 0.15);
+}
+
+.navbar {
+    width: 1500px;
+    height: 106px;
+    left: 0px;
+    top: 0px;
+}
+
+.nav_home {
+    padding-top: 43px;
+    display: flex;
+}
+
+.href {
+    margin-left: 69px;
+    margin-right: 437px;
+    margin-top: 15px;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #0B0706;
+    width: 46px;
+    height: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    font-feature-settings: 'liga' off;
+    margin-left: 32px;
+}
+
+.nav-item1 {
+    text-decoration: none;
+    color: #0B0706;
+    width: 46px;
+    height: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    font-feature-settings: 'liga' off;
+}
+
+.logo_{
+    display: flex;
+}
+
+.nav-item2 {
+    width: 88px;
+    height: 20px;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 10px 20px;
+    gap: 10px;
+    margin-left: 32px;
+    width: 128px;
+    height: 40px;
+    
+    background: #BE852C;
+    text-align: center;
+    font-feature-settings: 'liga' off;
+
+    color: #FFFFFF;
+}
+
+.header {
+    width: 1440px;
+    height: 858px;
+    left: 0px;
+    top: 106px;
+    background: url(1.jpg);
+}
+.header-title{
+    padding: 281px 326px;
+
+}
+h4{
+    width: 787px;
+    height: 75px;
+    left: calc(50% - 787px/2 - 0.5px);
+    top: 292px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 93.31%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFAF4;
+}
+
+h2 {
+    width: 604px;
+    height: 118px;
+    left: calc(50% - 604px/2);
+    top: 409px;
+    margin-left: 92px;
+    margin-top: 42px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFAF4;
+}
+
+h2 {
+    width: 604px;
+    height: 118px;
+    left: calc(50% - 604px/2);
+    top: 409px;
+    margin-left: 92px;
+    margin-top: 42px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFAF4;
+}
+
+
+
+.butn{
+    margin-top: 42px;
+}
+
+
+.btn1{
+    width: 246px;
+    height: 0px;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+    background: #BE852C;
+    text-transform: uppercase;
+    padding: 25px;
+    gap: 10px;
+    color: #FFFFFF;
+    margin-left: 246px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.block-2{
+    box-sizing: border-box;
+}
+
+h3{
+    width: 539px;
+    height: 125px;
+    left: 154px;
+    top: 173px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 43px;
+
+    color: #000000;
+}
+
+.info {
+    padding-top: 173px;
+    padding-left: 154px;
+}
+
+h5 {
+    width: 568px;
+    height: 127px;
+    left: 154px;
+    top: 329px;
+    margin-top: 31px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140.62%;
+    /* or 25px */
+
+
+    color: #000000;
+}
+
+.container{
+    display: flex;
+}
+
+.img{
+    padding: 107px 93px;
+}
